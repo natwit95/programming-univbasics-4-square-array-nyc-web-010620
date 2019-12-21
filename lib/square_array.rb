@@ -4,5 +4,5 @@ count = 0
 
 while count < array.length do
     puts array[count]
-    count **= 1
+    count ** = 1
 end
